@@ -1,6 +1,6 @@
 # Research
 
-Right now, my research is focussed on learning how supermassive black holes have evolved and interacted with their host galaxies over cosmic time. In particular, I'm interested in the dynamics of stars within these galaxies, what stellar motions can tell us about the distribution of mass within these galaxies, and how these stellar orbits interact with central black holes or binaries. Because of the drastic impact that galaxy shape can have on the stellar orbits, I'm also interested in how galaxy shape can indirectly impact central black hole growth.
+Right now, my research is focussed on learning how supermassive black holes have evolved and interacted with their host galaxies over cosmic time. In particular, I'm interested in the dynamics of stars within these galaxies, what stellar motions can tell us about the distribution of mass within these galaxies, and how these stellar orbits interact with central black holes and binaries. 
 
 ***
 
