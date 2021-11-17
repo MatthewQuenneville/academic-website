@@ -16,6 +16,8 @@ Download my full CV [here](assets/CV.pdf). (last updated November 2021)
 
 # Publications
 
+View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
+
 ## Preprints
 1. **M. E. Quenneville**, C. M. Liepold, and C.-P. Ma (2021). *Triaxial Orbit-based Dynamical Modeling of Galaxies with Supermassive Black Holes and an Application to Massive Elliptical Galaxy NGC 1453*. Submitted to ApJ.  
 ([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211106904Q/abstract)/[preprint](https://arxiv.org/pdf/2111.06904.pdf))
@@ -32,4 +34,8 @@ Download my full CV [here](assets/CV.pdf). (last updated November 2021)
 4. **M. E. Quenneville**, and D. A. Sivak (2018). *Energy Dissipation and Information Flow in Coupled Markovian Systems*. Entropy, 20 (9), 707.  
 ([abstract](https://ui.adsabs.harvard.edu/abs/2018Entrp..20..707Q/abstract)/[journal](https://www.mdpi.com/1099-4300/20/9/707/htm))
 
-Or view them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en). 
+## Non-peer-reviewed Publications
+1. **M. E. Quenneville** (2016). *Energy Dissipation and Information Flow in Coupled Markovian Systems*. Undergraduate honours thesis.  
+([abstract](http://summit.sfu.ca/item/18472)/[pdf](http://summit.sfu.ca/system/files/iritems1/18472/Quenneville_UGThesis2016.pdf))
+2. **M. E. Quenneville** (2014). *Boosted Regression Tree Based Invariant Mass Reconstruction of Tau Lepton Pairs at ATLAS*. CERN-STUDENTS-Note-2014-236.
+([abstract](https://cds.cern.ch/record/1951385?ln=en)/[pdf](http://cds.cern.ch/record/1951385/files/CERN_Paper.pdf))
