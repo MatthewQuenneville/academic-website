@@ -10,6 +10,8 @@
 
 Download my full CV [here](assets/CV.pdf). (last updated November 2021)
 
+***
+
 # Publications
 
 ## Preprints

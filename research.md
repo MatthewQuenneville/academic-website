@@ -23,7 +23,7 @@ https://ui.adsabs.harvard.edu/abs/2021ApJS..254...25Q/abstract)
 
 ***
 
-## The black hole in NGC 1453
+## The central black hole in NGC 1453
 
 NGC 1453 is a nearby massive elliptical galaxy. It rotates quickly and the rotation appears to be nearly aligned with its projected minor axis. This makes it a natural candidate for axisymmetric modelling. We performed axisymmetric modelling of NGC 1453 and found a central black hole about 3 billion times more massive than the sun! We also found that additional constraints are needed in order to make the model's kinematics realistic.
 [Read the paper](https://ui.adsabs.harvard.edu/abs/2020ApJ...891....4L/abstract)
