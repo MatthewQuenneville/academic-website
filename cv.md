@@ -8,7 +8,7 @@
   - *Advisor*: David Sivak  
   - *Thesis*: Energy Dissipation and Information Flow in Coupled Markovian Systems
 
-Download my full CV [here](assets/CV.pdf)
+Download my full CV [here](assets/CV.pdf). (last updated November 2021)
 
 # Publications
 
