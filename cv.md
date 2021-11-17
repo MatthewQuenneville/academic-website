@@ -1,10 +1,12 @@
 # Curriculum Vitae
 
-- **Ph.D. Physics**, University of California, Berkeley (Expected May 2022)
+- **Ph.D. Physics**, University of California, Berkeley
+  - *Expected*: May 2022
   - *Advisor*: Chung-Pei Ma  
   - *Thesis*: Dynamics and Shapes of Galaxies: Orbit Modelling of Triaxial Galaxies Hosting Supermassive Black Holes
 
-- **B.Sc. Honours Mathematical Physics**, Simon Fraser University (June 2016)
+- **B.Sc. Honours Mathematical Physics**, Simon Fraser University
+  - *Graduated*: June 2016
   - *Advisor*: David Sivak  
   - *Thesis*: Energy Dissipation and Information Flow in Coupled Markovian Systems
 
