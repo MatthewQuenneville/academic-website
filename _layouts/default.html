@@ -21,17 +21,16 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
 
         <p class="view"><a href="{{ "/" | absolute_url }}">About Me</a></p>
         <p class="view"><a href={{ site.baseurl}}"/research">Research</a></p>
         <p class="view"><a href={{ site.baseurl}}"/cv">Curriculum Vitae</a></p>
-        <p>View my publications on:</p>
-        <ul>
-          <li><a href="https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g">NASA ADS</a></li>
-          <li><a href="https://orcid.org/0000-0002-6148-5481">ORCID</a></li>
-          <li><a href="https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en">Google Scholar</a></li>
-        </ul>
+        <p class="view">View my publications on:<br>
+	<a href="https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g">NASA ADS</a><br>
+	<a href="https://orcid.org/0000-0002-6148-5481">ORCID</a><br>
+	<a href="https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en">Google Scholar</a><br>
+        </p>
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
