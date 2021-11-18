@@ -8,7 +8,7 @@ My goals moving forward are to extend these techniques and employ them to measur
 
 ## Triaxial Orbit Modelling
 
-Many real galaxies show clear deviations from axisymmetry. This suggests that triaxial modelling is needed to accurately model their behaviour. Previous studies have shown that some black hole masses have changed drastically when triaxial models are used instead of axisymmetric models. In this paper, we show that previous triaxial black hole measurements used flawed kinematics. We also describe and implement a model search scheme that fairly samples different regions of the triaxial shape space and requires drastically fewer models, making the search much more computationally efficient. We use these results to perform a triaxial measurement of the black hole in the center of NGC 1453.  
+Many real galaxies show clear deviations from axisymmetry. This suggests that triaxial modelling is needed to accurately model their behaviour. Previous studies have shown that some black hole masses have changed drastically when triaxial models are used instead of axisymmetric models. In this paper, we identify and resolve several issues that affected previous triaxial black hole measurements. We also describe and implement a model search scheme that fairly samples different regions of the triaxial shape space and requires drastically fewer models, making the search much more computationally efficient. We use these results to perform a triaxial measurement of the black hole in the center of NGC 1453.  
 [Read the paper](https://ui.adsabs.harvard.edu/abs/2021arXiv211106904Q/abstract)
 
 [![6 dimensional parameter recovery for NGC 1453](assets/images/6d_cornerplot.png)](https://ui.adsabs.harvard.edu/abs/2021arXiv211106904Q/abstract)
