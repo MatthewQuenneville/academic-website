@@ -33,9 +33,3 @@ View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKR
 ([abstract](https://ui.adsabs.harvard.edu/abs/2019ApJ...874...66G/abstract)/[journal](https://iopscience.iop.org/article/10.3847/1538-4357/ab01e3))
 4. **M. E. Quenneville**, and D. A. Sivak (2018). *Energy Dissipation and Information Flow in Coupled Markovian Systems*. Entropy, 20 (9), 707.  
 ([abstract](https://ui.adsabs.harvard.edu/abs/2018Entrp..20..707Q/abstract)/[journal](https://www.mdpi.com/1099-4300/20/9/707/htm))
-
-## Non-peer-reviewed Publications
-1. **M. E. Quenneville** (2016). *Energy Dissipation and Information Flow in Coupled Markovian Systems*. Undergraduate honours thesis.  
-([abstract](http://summit.sfu.ca/item/18472)/[pdf](http://summit.sfu.ca/system/files/iritems1/18472/Quenneville_UGThesis2016.pdf))
-2. **M. E. Quenneville** (2014). *Boosted Regression Tree Based Invariant Mass Reconstruction of Tau Lepton Pairs at ATLAS*. CERN-STUDENTS-Note-2014-236.
-([abstract](https://cds.cern.ch/record/1951385?ln=en)/[pdf](http://cds.cern.ch/record/1951385/files/CERN_Paper.pdf))
