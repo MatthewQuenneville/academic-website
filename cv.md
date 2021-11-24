@@ -19,9 +19,11 @@ Download my full CV [here](assets/CV.pdf). (last updated November 2021)
 View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKRPa05UiaCJPE_g), [ORCID](https://orcid.org/0000-0002-6148-5481), or [Google Scholar](https://scholar.google.com/citations?user=w9F3FjMAAAAJ&hl=en).
 
 ## Preprints
-1. **M. E. Quenneville**, C. M. Liepold, and C.-P. Ma (2021). *Triaxial Orbit-based Dynamical Modeling of Galaxies with Supermassive Black Holes and an Application to Massive Elliptical Galaxy NGC 1453*. Submitted to ApJ.  
+1. J. D. Pilawa, C. M. Liepold, S. C. Delgado Andrade, J. L. Walsh, C.-P. Ma, **M. E. Quenneville**, J. E. Greene, and J. P. Blakeslee (2021). *The MASSIVE Survey - XVII. A Triaxial Orbit-based Determination of the Black Hole Mass and Intrinsic Shape of Elliptical Galaxy NGC 2693*. Submitted to ApJ.
+(appearing on arXiv soon!)
+2. **M. E. Quenneville**, C. M. Liepold, and C.-P. Ma (2021). *Triaxial Orbit-based Dynamical Modeling of Galaxies with Supermassive Black Holes and an Application to Massive Elliptical Galaxy NGC 1453*. Submitted to ApJ.  
 ([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211106904Q/abstract)/[preprint](https://arxiv.org/pdf/2111.06904.pdf))
-2. M. Gu, J. E. Greene, A. B. Newman, C. Kreisch, **M. E. Quenneville**, C.-P. Ma, and J. P. Blakeslee (2021). *The MASSIVE Survey XVI. The Stellar Initial Mass Function in the Center of Massive Early Type Galaxies*. Submitted to ApJ.  
+3. M. Gu, J. E. Greene, A. B. Newman, C. Kreisch, **M. E. Quenneville**, C.-P. Ma, and J. P. Blakeslee (2021). *The MASSIVE Survey XVI. The Stellar Initial Mass Function in the Center of Massive Early Type Galaxies*. Submitted to ApJ.  
 ([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211011985G/abstract)/[preprint](https://arxiv.org/pdf/2110.11985.pdf))
 
 ## Peer-reviewed Publications
