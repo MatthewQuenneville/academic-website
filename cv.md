@@ -6,7 +6,7 @@
 - **PhD Physics**, University of California, Berkeley
   - *Graduated*: August 2022
   - *Advisor*: Chung-Pei Ma  
-  - *Thesis*: Dynamics and Shapes of Galaxies: Orbit Modelling of Triaxial Galaxies Hosting Supermassive Black Holes
+  - *Thesis*: Dynamics and Shapes of Galaxies: Orbit Modeling of Triaxial Galaxies Hosting Supermassive Black Holes
 
 - **BSc Honours Mathematical Physics**, Simon Fraser University
   - *Graduated*: June 2016
