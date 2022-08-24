@@ -21,7 +21,7 @@ View them on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/G3ch5VmKR
 
 ## Peer-reviewed Publications
 1. M. Gu, J. E. Greene, A. B. Newman, C. Kreisch, **M. E. Quenneville**, C.-P. Ma, and J. P. Blakeslee (2022). *The MASSIVE Survey XVI. The Stellar Initial Mass Function in the Center of Massive Early Type Galaxies*. The Astrophysical Journal 932 (2), 103.
-([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211011985G/abstract)/[prejournal](https://iopscience.iop.org/article/10.3847/1538-4357/ac69ea))
+([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211011985G/abstract)/[journal](https://iopscience.iop.org/article/10.3847/1538-4357/ac69ea))
 2. J. D. Pilawa, C. M. Liepold, S. C. Delgado Andrade, J. L. Walsh, C.-P. Ma, **M. E. Quenneville**, J. E. Greene, and J. P. Blakeslee (2022). *The MASSIVE Survey - XVII. A Triaxial Orbit-based Determination of the Black Hole Mass and Intrinsic Shape of Elliptical Galaxy NGC 2693*. The Astrophysical Journal 928 (2), 178.
 ([abstract](https://ui.adsabs.harvard.edu/abs/2021arXiv211113699P/abstract)/[journal](https://iopscience.iop.org/article/10.3847/1538-4357/ac58fd))
 3. **M. E. Quenneville**, C. M. Liepold, and C.-P. Ma (2022). *Triaxial Orbit-based Dynamical Modeling of Galaxies with Supermassive Black Holes and an Application to Massive Elliptical Galaxy NGC 1453*. The Astrophysical Journal, 926 (1), 30.  
